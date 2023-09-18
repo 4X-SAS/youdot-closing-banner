@@ -1,0 +1,25 @@
+.banner__content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  max-height: 5rem;
+  padding: 0.2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: sans-serif;
+  line-height: 1;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 1);
+}
+
+.banner__content h1 {
+  font-size: 1.2rem;
+}
+
+.banner__content p {
+  font-size: 1rem;
+}
